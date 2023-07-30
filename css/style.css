@@ -1,0 +1,65 @@
+
+
+a {
+    font-size:xx-large;
+    font-family:"Poppins";
+}
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.logo {
+    position:absolute;
+    padding: 1%;
+    text-align: center;
+    vertical-align:middle;
+}
+
+.profilepic {
+   height: 500px
+}
+
+.navbar {
+    background-color: #4fa39c;
+    padding-left: 150px;
+    padding-top: 50px;
+    height: 90px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar li {
+    margin-right: 20px;
+
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.navbar a:hover {
+    color: lightgray;
+}
+
+.heroImg {
+    height: 650px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+.display:inline-block {
+    vertical-align: top;
+}
+
